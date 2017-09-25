@@ -1,0 +1,4 @@
+C:\Users\Eiseldora\Documents\GitHub\Xamarin App\App\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Eiseldora\Documents\GitHub\Xamarin App\App\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Eiseldora\Documents\GitHub\Xamarin App\App\App\App\obj\Debug\App.MainPage.xaml.g.cs
+C:\Users\Eiseldora\Documents\GitHub\Xamarin App\App\App\App\obj\Debug\App.App.xaml.g.cs
